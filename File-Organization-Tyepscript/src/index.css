@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-onedrive-blue: #0078d4;
+  --color-sky-blue: #e6f2ff;
+  --color-pale-blue: #f0f7ff;
+  --color-folder-yellow: #ffc61a;
+  --color-pdf-red: #e74c3c;
+  --color-word-blue: #0078d4;
+  --color-excel-green: #107c41;
+  --color-ppt-orange: #d24726;
+  --color-image-teal: #16a085;
+  --color-video-purple: #9b59b6;
+  --color-audio-blue: #3498db;
+  --color-archive-purple: #8e44ad;
+  --color-file-gray: #95a5a6;
+}
